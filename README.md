@@ -6,7 +6,6 @@
 
 ```bash
 pip install selenium Pillow webdriver-manager screeninfo
-
 ```
 
 * Google Chrome
